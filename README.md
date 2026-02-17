@@ -33,6 +33,6 @@ To become a Software / AI Developer and get an internship opportunity.
 ---
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketchute&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sanketchute&show_icons=true&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketchute&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketchute&layout=compact&hide_border=true" />
